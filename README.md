@@ -5,7 +5,7 @@ I did run into one issue along the way - wrong order of files in s3 bucket. My r
 
 
 Here are the steps I followed:
- STAGE 1 : Configure Simple Email service & SNS
+- STAGE 1 : Configure Simple Email service & SNS
 - STAGE 2 : Add a email lambda function to use SES to send emails for the serverless application
 - STAGE 3 : Implement and configure the state machine, the core of the application
 - STAGE 4 : Implement the API Gateway, API and supporting lambda function
